@@ -1,0 +1,4 @@
+.estilopruebas{
+border-style: dotted; 
+    width: 50%;
+	}
